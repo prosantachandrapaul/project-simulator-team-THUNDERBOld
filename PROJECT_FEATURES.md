@@ -29,3 +29,7 @@ student gender is now stored for every student
 ## Student semester
 
 student semester is now stored for every student 
+
+## student credit Hours
+
+student credit Hours is now stored for every student 
