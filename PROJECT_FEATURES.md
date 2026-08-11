@@ -9,3 +9,7 @@ CGPA is now stored for every student.
 ## student department 
 
 department is now stored for every student 
+
+## Student email
+
+email is now stored for every student 
