@@ -1,3 +1,7 @@
 ## Student Age
 
 Age is now stored for every student.
+
+## Student CGPA
+
+CGPA is now stored for every student.
