@@ -33,3 +33,7 @@ student semester is now stored for every student
 ## student credit Hours
 
 student credit Hours is now stored for every student 
+
+## student status
+
+student status is now stored for every student 

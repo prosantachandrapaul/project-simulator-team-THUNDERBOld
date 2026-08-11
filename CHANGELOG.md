@@ -9,3 +9,4 @@
 - Added student gender.
 - Added student semester.
 - Added student creditHours.
+- Added student status.
