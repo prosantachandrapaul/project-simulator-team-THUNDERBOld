@@ -4,3 +4,4 @@
 - Added student CGPA.
 - Added student department.
 - Added student email.
+- Added student phone number.
