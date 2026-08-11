@@ -22,3 +22,6 @@ phone number is now stored for every student
 
 student address is now stored for every student 
 
+## student gender
+
+student gender is now stored for every student 
