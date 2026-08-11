@@ -1,6 +1,6 @@
 struct Student
 {
-    int id;
+    int studentid;
     char name[100];
     int age;
     float cgpa;
