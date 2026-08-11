@@ -37,3 +37,5 @@ student credit Hours is now stored for every student
 ## student status
 
 student status is now stored for every student 
+
+- Increased student name capacity to 100 characters

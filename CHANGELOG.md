@@ -10,3 +10,4 @@
 - Added student semester.
 - Added student creditHours.
 - Added student status.
+- Increased student name capacity from 50 to 100 characters.
