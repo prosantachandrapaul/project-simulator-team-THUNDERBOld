@@ -1,1 +1,2 @@
-# project simulator
+# project description 
+Student Management System is a simple project used to practice Git workflow management.
