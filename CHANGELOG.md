@@ -7,3 +7,4 @@
 - Added student phone number.
 - Added student address.
 - Added student gender.
+- Added student semester.

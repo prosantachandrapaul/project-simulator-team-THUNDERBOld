@@ -25,3 +25,7 @@ student address is now stored for every student
 ## student gender
 
 student gender is now stored for every student 
+
+## Student semester
+
+student semester is now stored for every student 
