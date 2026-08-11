@@ -40,3 +40,4 @@ student status is now stored for every student
 
 - Increased student name capacity to 100 characters
 - Increased student address capacity to 100 characters
+- Increased student  phone number  capacity to 25  characters
